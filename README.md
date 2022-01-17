@@ -10,7 +10,7 @@
 3. Javascript
 4. Python
 
-'var age = 25'
+'var age = 25' 
 
 [click here](https://github.com/Zaid-Jarrar/my-notes)
 
